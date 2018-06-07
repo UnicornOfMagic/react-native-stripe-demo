@@ -19,7 +19,7 @@ stripe.setOptions({
     androidPayMode: 'test',
 });
 
-export default class App extends PureComponent {
+export default class Root extends PureComponent {
     state = {
         index: 0,
         isDrawerOpen: false,

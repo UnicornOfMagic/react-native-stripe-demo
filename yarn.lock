@@ -4165,6 +4165,16 @@ react-is@^16.3.1:
   version "16.4.0"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.4.0.tgz#cc9fdc855ac34d2e7d9d2eb7059bbc240d35ffcf"
 
+react-native-drawer-layout-polyfill@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/react-native-drawer-layout-polyfill/-/react-native-drawer-layout-polyfill-2.0.0.tgz#03d6658ae1e52db64ecee05e7642d17af1c37ec1"
+  dependencies:
+    react-native-drawer-layout "2.0.0"
+
+react-native-drawer-layout@2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/react-native-drawer-layout/-/react-native-drawer-layout-2.0.0.tgz#8ce1e4027bd3f3a09045afdb46080e18346be232"
+
 react-native@0.55.4:
   version "0.55.4"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.55.4.tgz#eecffada3750a928e2ddd07cf11d857ae9751c30"
@@ -4930,6 +4940,10 @@ through@^2.3.6:
 time-stamp@^1.0.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/time-stamp/-/time-stamp-1.1.0.tgz#764a5a11af50561921b133f3b44e618687e0f5c3"
+
+tipsi-stripe@^5.2.1:
+  version "5.2.1"
+  resolved "https://registry.yarnpkg.com/tipsi-stripe/-/tipsi-stripe-5.2.1.tgz#5c3a33e678900f975373d3c35d664dfb6154fa6f"
 
 tmp@^0.0.33:
   version "0.0.33"
